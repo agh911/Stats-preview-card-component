@@ -1,5 +1,4 @@
 # Stats preview card component
-
 The aim for this challenge was to build out this QR code component and get it looking as close to the design as possible. This is a solution to the [Stats preview card component coding challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 ## Table of contents
